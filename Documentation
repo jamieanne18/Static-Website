@@ -34,55 +34,17 @@ Activities
 Date
 
 Planning
-
-Friday, July 26, 2013
-
 Development
-
-Friday, July 26, 2013 to Wednesday, August 07, 2013
-
 Documentation
-
-Friday, July 26, 2013 to Friday, August 09, 2013
-
 Submission / Deadline / Sign Off
 
-Friday, August 09, 2013
-
-OR
-
-Activities
-
-Wk 1
-
-Wk 2
-
-Wk 3
-
-Wk 4
-
-Wk 5
-
-Planning
-
-Actual
-
-Development
-
-Actual
-
-Documentation
-
-Actual
-
-Submission
-
-Actual
-
 Source Codes:
-
-Package Source Codes • HTML Files
-
-• Images
-• CSS Files
-• Documentation
+  HTML Files
+    *home.html
+    *shop.html
+    *contact.html
+    *all.html
+    *books.html
+    *others.html
+  CSS Files
+    *home.css
